@@ -7,3 +7,6 @@ class App < Sinatra::Base
   end
 
 end
+
+#rackup app.rb - telling us that sinatra has started a web application running on this computer
+#listening to HTTP requests at port 9292
